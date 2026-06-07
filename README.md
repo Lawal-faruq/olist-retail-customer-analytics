@@ -1,5 +1,3 @@
-<img width="659" height="134" alt="image" src="https://github.com/user-attachments/assets/3c8afc92-7337-4c4f-86af-f337146fee6b" /># Olist Retail Customer Analytics
-
 ## An end-to-end SQL + Power BI analytics project
 
 ![Dashboard Preview](dashboard_page1.png)
@@ -156,8 +154,8 @@ Category slicer enables drill-down analysis.
 ├── dashboard_page2.png
 ├── dashboard_page3.png
 └── README.md
+...
 
----
 
 ## How to Reproduce
 
