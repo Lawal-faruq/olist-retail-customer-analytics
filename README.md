@@ -48,8 +48,8 @@ fact_orders (112,348 rows)
 ├── dim_seller     (3,095 rows)
 ├── dim_date       (634 rows)
 └── dim_geography  (19,015 rows)
-...
 ```
+
 ### Key design decisions
 
 - `fact_orders` uses a composite primary key (`order_id` + 
