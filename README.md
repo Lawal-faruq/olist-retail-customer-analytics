@@ -136,10 +136,10 @@ Top 10 categories by total revenue and avg order value side by side.
 Scatter plot reveals volume vs value positioning across all categories. 
 Category slicer enables drill-down analysis.
 
----
 
 ## Repository Structure
 
+```
 ├── 00_create_database.sql
 ├── 01_create_schema.sql
 ├── 02_create_staging_tables.sql
@@ -154,7 +154,7 @@ Category slicer enables drill-down analysis.
 ├── dashboard_page2.png
 ├── dashboard_page3.png
 └── README.md
-...
+```
 
 ## How to Reproduce
 
