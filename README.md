@@ -1,4 +1,4 @@
-# Olist Retail Customer Analytics
+<img width="659" height="134" alt="image" src="https://github.com/user-attachments/assets/3c8afc92-7337-4c4f-86af-f337146fee6b" /># Olist Retail Customer Analytics
 
 ## An end-to-end SQL + Power BI analytics project
 
@@ -43,14 +43,15 @@ The raw Olist dataset (9 CSV files) was transformed into a clean star
 schema with one central fact table and five dimension tables.
 
 ### Star schema
-
+```
 fact_orders (112,348 rows)
 ├── dim_customer   (99,441 rows)
 ├── dim_product    (32,951 rows)
 ├── dim_seller     (3,095 rows)
 ├── dim_date       (634 rows)
 └── dim_geography  (19,015 rows)
-
+...
+```
 ### Key design decisions
 
 - `fact_orders` uses a composite primary key (`order_id` + 
