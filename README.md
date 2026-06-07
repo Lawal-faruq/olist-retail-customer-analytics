@@ -1,4 +1,4 @@
-# Olist Retail Customer Analytics
+# Olist Retail Customer Analytics.
 
 ## An end-to-end SQL + Power BI analytics project
 
